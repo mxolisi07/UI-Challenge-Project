@@ -1,5 +1,4 @@
 import React from "react";
-import { FaThumbsUp } from "react-icons/fa"; 
 
 interface BlogCardProps {
     title2: string;

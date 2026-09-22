@@ -136,8 +136,6 @@ body,
 }
 
 .banner {
-  background: url("bannerImage.jpg");
-  background-position: center;
   padding: 30px;
   width: 96vw;
   height: 50vh;
@@ -643,7 +641,7 @@ body,
   transition: background-color 0.3s;
   padding: 1vh;
   block-size: 30px;
-  margin-right: 14vw;
+  margin-right: 12vw;
   margin-top: 45px;
   text-align: center;
   background-color: #ceb6aa;

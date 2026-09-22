@@ -3,7 +3,8 @@ import React from "react";
 
 const Banner: React.FC = () => {
     return (
-        <section className= "banner">
+        <section className= "banner" style={{backgroundImage: `url(bannerImage.jpg)`}} >
+            
             <svg className="svg-defs" width="0" height="0">
                 <defs>
                     <clipPath id="wave-path" clipPathUnits="objectBoundingBox">
@@ -13,6 +14,7 @@ const Banner: React.FC = () => {
             </svg>
 
             <div className= "banner-content">
+                
                 <h2>FRESHLY ROASTED</h2>
                 <h1>COFFEE</h1>
                 <button className= "shop-btn">Shop now</button>

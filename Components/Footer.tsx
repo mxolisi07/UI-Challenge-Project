@@ -9,13 +9,13 @@ const Footer: React.FC = () => {
         <div className="footer-col">
           <h4>Products</h4>
           <ul>
-            <li>Shoes</li>
+            <li id="shoe">Shoes</li>
           </ul>
         </div>
 
         <div className="footer-col">
           <h4>Category</h4>
-          <ul>
+          <ul id="cat">
             <li>Men</li>
             <li>New in</li>
             <li>Weekly Pick</li>

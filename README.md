@@ -14,7 +14,7 @@ Includes interactive navigation, banner with wave design, product cards, and a f
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/coffee-shop.git
+   git clone https://github.com/mxolisi07/UI-Challenge-Project.git
 
 # React + TypeScript + Vite
 

@@ -19,7 +19,7 @@ Includes interactive navigation, banner with wave design, product cards, and a f
 ## Deployment
 1. Deployment link 
     ```netlify 
-    https://sparkly-belekoy-34b116.netlify.app/
+    (https://reactts-ui-challenge.netlify.app/)
 
 # React + TypeScript + Vite
 
